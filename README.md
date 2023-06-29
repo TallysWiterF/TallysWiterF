@@ -1,8 +1,10 @@
-### Hello World! 
+<h1 align="center">Hi 👋, I'm Tallys Witer</h1>
+<h3 align="center">A software developer from Belo Horizonte - Brazil</h3>
+
 
 <div align="center">
   <a href="https://github.com/TallysWiterF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tallyswiterf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tallyswiterf&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallyswiterf&layout-compact&langs_count-16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
