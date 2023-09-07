@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Tallys Witer</h1>
-<h3 align="center">Sou um desenvolvedor de software de Belo Horizonte - Brasil</h3>
+<h3 align="center">Analista de Desenvolvimento em Belo Horizonte - Brasil</h3>
  
 <div align="center">
   <a href="https://github.com/TallysWiterF">
