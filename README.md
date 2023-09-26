@@ -2,7 +2,7 @@
 <h3 align="center">Analista de Desenvolvimento em Belo Horizonte - Brasil</h3>
  
 <div align="center">
-  <a href="https://github.com/TallysWiterF">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tallyswiterf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallyswiterf&layout-compact&langs_count-16&theme=dracula"/>
 </div>
