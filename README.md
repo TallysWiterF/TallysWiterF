@@ -15,7 +15,6 @@
   <img align="center" alt="Tallys-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tallys-TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Tallys-SASS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-  <img align="center" alt="Tallys-Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
   <img align="center" alt="Tallys-Kotlin" width="40" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/> 
 </div>
 
