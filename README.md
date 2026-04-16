@@ -23,15 +23,13 @@ Atualmente trabalho desenvolvendo soluções para gestão acadêmica e administr
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
 </p>
 
 ---
