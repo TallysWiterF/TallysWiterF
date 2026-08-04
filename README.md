@@ -9,7 +9,7 @@ Desenvolvedor de software apaixonado por criar soluções escaláveis, performá
 
 ## 🚀 Sobre mim
 
-💻 Analista de Desenvolvimento de Software
+💻 Analista de Desenvolvimento de Software  
 📱 Desenvolvimento **Mobile com Flutter**  
 🌐 Desenvolvimento **Web com Angular**  
 ⚙️ Backend com **C# .NET** 
